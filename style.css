@@ -124,7 +124,7 @@ nav a:hover{
 /* ==================== Banner Principal ==================== */
 
 .banner {
-    background-image: url(/images/banner.png);
+    background-image: url(images/banner.png);
     object-position: center;
     color: white;
     display: flex;
